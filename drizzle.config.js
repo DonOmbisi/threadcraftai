@@ -1,11 +1,12 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
   dialect: "postgresql",
   schema: "./utils/db/schema.ts",
   out: "./drizzle",
 
   dbCredentials: {
-    url: "postgresql://zerotohero_owner:SPVe2rokvBf6@ep-bitter-shadow-a5lbwa60.us-east-2.aws.neon.tech/threadcraft?sslmode=require",
+    url: "postgresql://jsm_ryde_owner:9BKdiDGkasz5@ep-super-water-a24fjuif.eu-central-1.aws.neon.tech/beat_cancer?sslmode=require",
     connectionString:
-      "postgresql://zerotohero_owner:SPVe2rokvBf6@ep-bitter-shadow-a5lbwa60.us-east-2.aws.neon.tech/threadcraft?sslmode=require",
+      "postgresql://jsm_ryde_owner:9BKdiDGkasz5@ep-super-water-a24fjuif.eu-central-1.aws.neon.tech/beat_cancer?sslmode=require",
   },
 };
